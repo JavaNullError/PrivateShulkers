@@ -9,6 +9,3 @@ prevent-block-shulker: true
 # If there is another similar plugin that performs this function, disable this setting.
 # Otherwise, there may be errors or duplicates.
 auto-pickup-shulkers: true
-# Please enter the license key provided when purchasing the plugin.
-# If you leave it blank or enter it incorrectly, the plugin will not work.
-license-key: ""
